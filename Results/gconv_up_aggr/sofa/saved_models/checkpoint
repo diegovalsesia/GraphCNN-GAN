@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/valsesia/Scripts/Graph/multiple_exp/Results/gconv_up_aggr/sofa/saved_models/model.ckpt"
+all_model_checkpoint_paths: "/home/valsesia/Scripts/Graph/multiple_exp/Results/gconv_up_aggr/sofa/saved_models/model.ckpt"
