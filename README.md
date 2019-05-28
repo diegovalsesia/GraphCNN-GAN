@@ -4,7 +4,7 @@ If you like our work, please cite the journal version of the paper.
 
 Journal version BibTex reference:
 ```
-@ARTICLE{Valsesia2019Sampling,
+@ARTICLE{Valsesia2019journal,
 author={Diego {Valsesia} and Giulia {Fracastoro} and Enrico {Magli}},
 journal={under review},
 title={Learning Localized Representations of Point Clouds with Graph-Convolutional Generative Adversarial Networks},
