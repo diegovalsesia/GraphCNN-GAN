@@ -1,5 +1,7 @@
 # Learning Localized Generative Models for 3D Point Clouds via Graph Convolution (ICLR 2019)
 
+Warning: trained models are large! A code-only repository is available at: https://github.com/diegovalsesia/GraphCNN-GAN-codeonly
+
 If you like our work, please cite the journal version of the paper.
 
 Journal version BibTex reference:
