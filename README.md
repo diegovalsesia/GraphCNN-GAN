@@ -8,7 +8,7 @@ Journal version BibTex reference:
 ```
 @ARTICLE{Valsesia2019journal,
 author={Diego {Valsesia} and Giulia {Fracastoro} and Enrico {Magli}},
-journal={under review},
+journal={IEEE Transactions on Multimedia},
 title={Learning Localized Representations of Point Clouds with Graph-Convolutional Generative Adversarial Networks},
 year={2019},
 volume={},
